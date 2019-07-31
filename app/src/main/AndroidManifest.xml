@@ -24,17 +24,11 @@
 
         <meta-data
             android:name="QNJSDK_APPID"
-            android:value="101"/>
+            android:value="您的APPID"/>
         <meta-data
             android:name="QNJSDK_APPKEY"
-            android:value="1234567890"/>
+            android:value="您的APPKEY"/>
 
-        <!--<meta-data-->
-            <!--android:name="QNJSDK_APPID"-->
-            <!--android:value="11"/>-->
-        <!--<meta-data-->
-            <!--android:name="QNJSDK_APPKEY"-->
-            <!--android:value="ihHG9EjT"/>-->
 
         <service
             android:name="com.moxie.client.accessible.AccessibleCrawlerService"
